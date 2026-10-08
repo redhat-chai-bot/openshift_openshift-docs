@@ -4,7 +4,7 @@
 
 :_mod-docs-content-type: CONCEPT
 [id="install-on-oracle-database-appliance-intro_{context}"]
-= Install on Oracle Database Appliance
+= Oracle Database Appliance
 
 [role="_abstract"]
 You can use the {ai-full} to install a cluster on {oda-first}.
